@@ -21,19 +21,6 @@ Unified gaming data platform (think Last.fm for games), tracking play across eve
 
 ---
 
-## 🤖 Bupple · Technical PM & Senior Engineer · *(Jun 2025 - May 2026)* · [bupple.io](https://bupple.io)
-
-AI-native content platform. Built the agentic and media-generation systems end to end.
-
-- 🧠 **Prism**: model-agnostic media generation. Models, schemas, and pricing pulled live from fal.ai and cached, so any of **1,000+ models** (Veo, Sora, Kling, Luma) ships with zero code changes.
-- 🤝 **Multi-agent orchestration on Mastra**: a brand-aware supervisor delegating to specialized subagents, with native tool-approval (suspend/resume) wired across backend and frontend.
-- 🛠 **LLMOps**: versioned prompt registry, per-call token and cost accounting, plan-tier capability gating signed into service-to-service JWTs.
-- 💸 **Cost + reliability**: cut a vision step ~12x (gpt-4o to gpt-5.4-nano) after a quality eval, and fixed a circuit-breaker fallback that had been silently 404-ing on every call.
-
-`Next.js 16` · `NestJS` · `Mastra` · `MongoDB` · `Redis/BullMQ` · `AWS Lambda` · `OpenAI / FAL / Gemini`
-
----
-
 ## 🧰 Muncher · indie studio · [muncherhq.com](https://muncherhq.com) · [@MuncherHQ](https://github.com/MuncherHQ)
 
 Privacy-first utility apps.
@@ -61,7 +48,7 @@ AI          Mastra · MCP · LLMOps · embeddings · OpenAI / FAL / Gemini
 Workflow    pnpm/Turborepo monorepos · conventional commits · AI-assisted dev (Claude Code, Taskmaster)
 ```
 
-Earlier: the data infrastructure, anomaly-detection systems, and experimentation platforms behind **5X revenue** at RIWI and **4X funnel conversion** at ROM; co-founded EasyPaz (Iran's first meal-kit service, **$300K seed** from Sarava).
+Earlier: built the agentic and media-generation systems at Bupple (AI-native content platform); the data infrastructure, anomaly-detection systems, and experimentation platforms behind **5X revenue** at RIWI and **4X funnel conversion** at ROM; co-founded EasyPaz (Iran's first meal-kit service, **$300K seed** from Sarava).
 
 ---
 
